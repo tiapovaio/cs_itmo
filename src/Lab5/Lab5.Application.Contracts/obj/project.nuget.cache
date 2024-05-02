@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "6h01RSOVElKHJmPEaPMN9lVvSCB+Aon0zFXjVXl0T7FN+mmpiD8pJz7xilcf5QV/lvNJqllgIsHT6q6KiOnZZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tiapo\\RiderProjects\\tiapovaio\\src\\Lab5\\Lab5.Application.Contracts\\Lab5.Application.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiapo\\.nuget\\packages\\sourcekit.analyzers.collections\\1.0.4\\sourcekit.analyzers.collections.1.0.4.nupkg.sha512",
+    "C:\\Users\\tiapo\\.nuget\\packages\\sourcekit.analyzers.enumerable\\1.0.4\\sourcekit.analyzers.enumerable.1.0.4.nupkg.sha512",
+    "C:\\Users\\tiapo\\.nuget\\packages\\sourcekit.analyzers.memberaccessibility\\1.0.4\\sourcekit.analyzers.memberaccessibility.1.0.4.nupkg.sha512",
+    "C:\\Users\\tiapo\\.nuget\\packages\\sourcekit.analyzers.nullable\\1.0.4\\sourcekit.analyzers.nullable.1.0.4.nupkg.sha512",
+    "C:\\Users\\tiapo\\.nuget\\packages\\sourcekit.analyzers.properties\\1.0.4\\sourcekit.analyzers.properties.1.0.4.nupkg.sha512",
+    "C:\\Users\\tiapo\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.507\\stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+    "C:\\Users\\tiapo\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.507\\stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512"
+  ],
+  "logs": []
+}
